@@ -1,5 +1,5 @@
 # Important update
-As of Oct 1st 2020, we started a new [company](https://duendesoftware.com/). All new feature work will hapen in our new [organization](https://github.com/duendesoftware).
+As of Oct 1st 2020, we started a new [company](https://duendesoftware.com/). All new feature work will happen in our new [organization](https://github.com/duendesoftware).
 The new Duende IdentityServer is available under both a FOSS (RPL) and a commercial license. Development and testing is always free. [Contact](https://duendesoftware.com/contact) us for more information. This repo will be maintained with bug fixes and security updates until November 2022.
 
 ## About IdentityServer4
@@ -19,7 +19,8 @@ Active development happens on the main branch. This always contains the latest v
 
 * [Install](https://www.microsoft.com/net/download/core#/current) the latest .NET Core 3.1 SDK
 * Install Git
-* Run `build.ps1` or `build.sh` in the root of the repo
+* Clone this repo
+* Run `build.ps1` or `build.sh` in the root of the cloned repo
 
 ## Documentation
 For project documentation, please visit [readthedocs](https://identityserver4.readthedocs.io).
